@@ -1,2 +1,2 @@
 # python-challenge
-ASU-Fintech bootcamp - Module 2 homework
+Python script that analyzes the financial records of a company
